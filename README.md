@@ -4,7 +4,7 @@
 
 
 
-#### SQL database dump is in db_dump.sql file above.
+SQL database dump is in db_dump.sql file above.
 
 ### Data Analysis Using SQL
 
